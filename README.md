@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou tecnólogo em Análise e Desenvolvimento de Sistemas, formado pela UNIPAR - Universidade Paranaense de Cianorte. Atualmente, estou em busca de uma oportunidade como Desenvolvedor de Software, onde possa aplicar meus conhecimentos e habilidades, além de continuar a minha evolução profissional no campo da tecnologia.</p>
+<p align="left">Sou tecnólogo em Análise e Desenvolvimento de Sistemas, formado pela UNIPAR - Universidade Paranaense de Cianorte. Atualmente, estou em busca de uma oportunidade como Desenvolvedor Front-End, onde possa aplicar meus conhecimentos e habilidades, além de continuar a minha evolução profissional no campo da tecnologia.</p>
 
 ###
 
