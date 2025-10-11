@@ -7,7 +7,9 @@ Trabalho com <strong>JavaScript, React, HTML, CSS e Firebase</strong>, e estou s
 Busco uma oportunidade como <strong>Desenvolvedor Front-End Júnior</strong> para contribuir com projetos reais, colaborar em equipe e continuar evoluindo como profissional da área de tecnologia 🚀
 </p>
 
-<p align="left">💬 Vamos conversar? Estou aberto a novas conexões e oportunidades!</p>
+<p align="left">
+💻 Seguem abaixo as principais tecnologias que utilizo no meu dia a dia de estudos e desenvolvimento:
+</p>
 
 ###
 
@@ -25,20 +27,20 @@ Busco uma oportunidade como <strong>Desenvolvedor Front-End Júnior</strong> par
 
 ###
 
-<p align="left">Conecte-se comigo🤝</p>
+<p align="left">Conecte-se comigo 🤝</p>
 
 ###
 
 <div align="left">
-  <a href="agripeheber@gmail.com" target="_blank">
+  <a href="mailto:agripeheber@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/matheus-agripe" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-agripe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://portfoliomatheus-agripe.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio logo" />
-</a>
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio logo" />
+  </a>
 </div>
 
 ###
