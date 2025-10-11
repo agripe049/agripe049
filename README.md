@@ -1,12 +1,13 @@
-<h1 align="left">Olá, eu sou o Matheus Agripe</h1>
+<h1 align="left">Olá, eu sou o Matheus Agripe 👋</h1>
 
-###
+<p align="left">
+Sou <strong>tecnólogo em Análise e Desenvolvimento de Sistemas</strong> formado pela <strong>UNIPAR – Universidade Paranaense de Cianorte</strong>. <br><br>
+Tenho grande interesse em <strong>desenvolvimento Front-End</strong> e sou apaixonado por criar interfaces modernas, responsivas e com foco na experiência do usuário. <br><br>
+Trabalho com <strong>JavaScript, React, HTML, CSS e Firebase</strong>, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. <br><br>
+Busco uma oportunidade como <strong>Desenvolvedor Front-End Júnior</strong> para contribuir com projetos reais, colaborar em equipe e continuar evoluindo como profissional da área de tecnologia 🚀
+</p>
 
-<p align="left">Sou tecnólogo em Análise e Desenvolvimento de Sistemas, formado pela UNIPAR - Universidade Paranaense de Cianorte. Atualmente, estou em busca de uma oportunidade como Desenvolvedor Front-End, onde possa aplicar meus conhecimentos e habilidades, além de continuar a minha evolução profissional no campo da tecnologia.</p>
-
-###
-
-<p align="left">Habilidades tecnológicas 👩‍💻</p>
+<p align="left">💬 Vamos conversar? Estou aberto a novas conexões e oportunidades!</p>
 
 ###
 
