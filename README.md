@@ -1,10 +1,9 @@
 <h1 align="left">Olá, eu sou o Matheus Agripe 👋</h1>
 
 <p align="left">
-Sou <strong>tecnólogo em Análise e Desenvolvimento de Sistemas</strong> formado pela <strong>UNIPAR – Universidade Paranaense de Cianorte</strong>. <br><br>
-Tenho grande interesse em <strong>desenvolvimento Front-End</strong> e sou apaixonado por criar interfaces modernas, responsivas e com foco na experiência do usuário. <br><br>
-Trabalho com <strong>JavaScript, React, HTML, CSS e Firebase</strong>, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. <br><br>
-Busco uma oportunidade como <strong>Desenvolvedor Front-End Júnior</strong> para contribuir com projetos reais, colaborar em equipe e continuar evoluindo como profissional da área de tecnologia 🚀
+Olá! Eu sou o Matheus Agripe 👋
+Sou tecnólogo em Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End, com foco em React, JavaScript, HTML, CSS, Firebase e consumo de APIs.
+Gosto de criar interfaces modernas, responsivas e centradas no usuário, e estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior 🚀
 </p>
 
 <p align="left">
@@ -14,15 +13,22 @@ Busco uma oportunidade como <strong>Desenvolvedor Front-End Júnior</strong> par
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
 </div>
 
 ###
