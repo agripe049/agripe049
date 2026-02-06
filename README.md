@@ -2,7 +2,7 @@
 
 <p align="left">
 Olá! Eu sou o Matheus Agripe 👋
-Sou tecnólogo em Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End, com foco em React, JavaScript, HTML, CSS, Firebase e consumo de APIs.
+Sou Desenvolvedor Front-End formado em Análise e Desenvolvimento de Sistemas, com foco em React, JavaScript, HTML, CSS, Firebase, Node.JS e consumo de APIs.
 Gosto de criar interfaces modernas, responsivas e centradas no usuário, e estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior 🚀
 </p>
 
