@@ -1,9 +1,7 @@
 <h1 align="left">Olá, eu sou o Matheus Agripe 👋</h1>
 
 <p align="left">
-Olá! Eu sou o Matheus Agripe 👋
-Sou Desenvolvedor Front-End formado em Análise e Desenvolvimento de Sistemas, com foco em React, JavaScript, HTML, CSS, Firebase, Node.JS e consumo de APIs.
-Gosto de criar interfaces modernas, responsivas e centradas no usuário, e estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior 🚀
+Sou Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com foco em React, JavaScript, Node.js, MySQL, Firebase e consumo/criação de APIs REST. Desenvolvo aplicações web completas, conectando interfaces modernas e responsivas no Front-End a arquiteturas sólidas e bancos de dados no Back-End. Estou em busca da minha primeira oportunidade como Desenvolvedor Full Stack Júnior! 🚀
 </p>
 
 <p align="left">
@@ -12,6 +10,10 @@ Gosto de criar interfaces modernas, responsivas e centradas no usuário, e estou
 
 ###
 
+<p align="left">
+💻 Seguem abaixo as principais tecnologias que utilizo no meu dia a dia de estudos e desenvolvimento:
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -19,16 +21,13 @@ Gosto de criar interfaces modernas, responsivas e centradas no usuário, e estou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
 </div>
 
 ###
