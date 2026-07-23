@@ -10,10 +10,6 @@ Sou Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, 
 
 ###
 
-<p align="left">
-💻 Seguem abaixo as principais tecnologias que utilizo no meu dia a dia de estudos e desenvolvimento:
-</p>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
